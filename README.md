@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Dynamic Profile Views Count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=trapti2003&label=Visit+Count&color=d940ff&style=plastic" alt="trapti2003" />
 <!-- My Introduction -->
-<h1 align="center">Helloo!! <img src="./waving_hand.png" width="36" />, I'm Trapti Gupta</h1>
+<h1 align="center">Helloo!! <img src="waving_hand.png" width="36" />, I'm Trapti Gupta</h1>
 <h3 align="center">A Passionate Tech Enthusiast & Emerging Full Stack Developer from Madhya Pradesh, India.</h3>
 
 <!-- Dynamic Typing Animation -->
