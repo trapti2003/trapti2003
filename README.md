@@ -83,12 +83,6 @@ Here are some ideas to get you started:
 </div>
 <br/><br/>
 
-<!-- My Contibution Chart With Snake Animation -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/trapti2003/trapti2003/output/github-contribution-grid-snake.svg" />
-</div>
-<br/><br/>
 
 <!-- My Profile Stats -->
 <div align=center>
