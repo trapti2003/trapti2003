@@ -79,8 +79,8 @@ href="https://www.naukri.com/code360/profile/b09e3616-d461-4039-9bac-8b09036b51e
 <!-- Tools & Technologies -->
 <div align="center">
     <h2>⚒️ Tools & Technologies ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,bootstrap,git,github,vscode,arduino,figma,postman" />
-    <img src="https://skillicons.dev/icons?i=java,python,mongodb,express,react,nodejs,firebase,mysql,linux,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,bootstrap,git,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=java,python,mongodb,express,react,nodejsmysqlgooglecloud" />
 </div>
 <br/><br/>
 
