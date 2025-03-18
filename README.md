@@ -70,16 +70,7 @@ href="https://www.naukri.com/code360/profile/b09e3616-d461-4039-9bac-8b09036b51e
     <img src="https://img.shields.io/badge/Code360-303030?style=for-the-badge&logo=codingninjas&logoColor=orange" target="_blank" />
   </a>
   <a href="https://www.codechef.com/users/trapti_84   " target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-3E2626?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
-
-
-
-
-
-
-
-
-    <img src="https://img.shields.io/badge/CodeChef-3E2626?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/CodeChef-3E2626?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" >
   </a>
 </div>
 <br/>
